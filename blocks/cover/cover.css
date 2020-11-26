@@ -1,0 +1,17 @@
+.cover {
+    position: relative;
+    max-width: 1184px;
+    height: auto;
+    background-size: cover;
+    margin: 92px auto 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+@media screen and (max-width: 1279px) {
+    .cover {
+        width: 100%;
+    }
+}
