@@ -3,7 +3,7 @@
   padding: 0;
   display: grid;
   grid-template-columns: 1fr min-content min-content;
-  align-items: end;
+  align-items: center;
   justify-content: space-between;
   min-width: 288px;
   max-width: 1184px;

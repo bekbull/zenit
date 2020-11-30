@@ -1,0 +1,24 @@
+.video__zenit {
+  width: 100%;
+  height: 500px;
+  border: 0;
+}
+
+@media screen and (max-width: 1279px) {
+  .video__zenit {
+    height: 400px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .video__zenit {
+    height: 250px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .video__zenit {
+    width: 100%;
+    height: 200px;
+  }
+}
